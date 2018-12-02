@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cloud.qml</file>
+        <file>images/cloud1.png</file>
+        <file>images/cloud2.png</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
